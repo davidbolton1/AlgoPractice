@@ -26,3 +26,5 @@ print binary_search(my_list, 3)
 
 #run time is log(n) <<Fast!
 #if this was simple search, run time would be linear, or 0(n)
+
+

@@ -19,5 +19,3 @@ def twoSumNaive(num_arr, pair_sum):
 num_arr = [3, 5, 2, -4, 8, 11]
 pair_sum = 7
 
-# Function call inside print
-twoSumNaive(num_arr, pair_sum) 
